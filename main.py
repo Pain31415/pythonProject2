@@ -1,0 +1,5 @@
+a = float(input('num1:'))
+b = float(input('num2:'))
+c = float(input('num3:'))
+print(f' Sum = {a+b+c}')
+print(f' Mul = {a*b*c}')
